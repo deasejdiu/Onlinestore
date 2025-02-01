@@ -9,13 +9,13 @@ include("cart.php");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - Anaylla</title>
+    <title>About Us - Dex</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
     <title>Products</title> 
 </head>
 <header>
-    <img src="public/anaylla.png" alt="Anaylla Logo">
+    <img src="public/dex.png" alt="Dex Logo">
     <div class="header-container">
         <P><a href="display_cart.php">Cart</a></P>
         <P><a href="loginregister.php">Logout</a></P>
@@ -415,7 +415,7 @@ include("cart.php");
             </div>
         </div>
         
-        <p>Prizren, Kosove/ 049 999 999/ info@anaylla.com</p>
+        <p>Prizren, Kosove/ 049 999 999/ info@dex.com</p>
     </footer>
 </body>
 </html>

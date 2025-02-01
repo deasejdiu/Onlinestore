@@ -60,7 +60,7 @@ session_start();
 </style>
 <body>
   <header>
-    <img src="public/anaylla.png" alt="Anaylla Logo">
+    <img src="public/dex.png" alt="dex Logo">
     <div class="header-container">
       <p><a href="onlineshop.php">Home</a></p>
       <p><a href="about.php">About Us</a></p>

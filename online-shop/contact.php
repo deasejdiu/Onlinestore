@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact us - Anaylla</title>
+  <title>Contact us - Dex</title>
   <link rel="stylesheet" href="styles.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
 </head>
@@ -100,7 +100,7 @@
 
 <body>
   <header>
-    <img src="public/anaylla.png" alt="Anaylla Logo">
+    <img src="public/dex.png" alt="dex Logo">
     <div class="header-container">
       <p><a href="onlineshop.php">Home</a></p>
       <p><a href="about.php">About Us</a></p>
@@ -147,7 +147,7 @@
         <a href="https://www.instagram.com" target="_blank">Instagram</a>
       </div>
     </div>
-    <p>Prizren, Kosove/ 049 999 999/ info@anaylla.com</p>
+    <p>Prizren, Kosove/ 049 999 999/ info@dex.com</p>
   </footer>
 </body>
 
@@ -157,7 +157,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact us - Anaylla</title>
+  <title>Contact us - dex</title>
   <link rel="stylesheet" href="styles.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
 </head>
@@ -253,7 +253,7 @@
 
 <body>
   <header>
-    <img src="public/anaylla.png" alt="Anaylla Logo">
+    <img src="public/dex.png" alt="Dex Logo">
     <div class="header-container">
       <p><a href="onlineshop.php">Home</a></p>
       <p><a href="about.php">About Us</a></p>
@@ -300,7 +300,7 @@
         <a href="https://www.instagram.com" target="_blank">Instagram</a>
       </div>
     </div>
-    <p>Prizren, Kosove/ 049 999 999/ info@anaylla.com</p>
+    <p>Prizren, Kosove/ 049 999 999/ info@dex.com</p>
   </footer>
 </body>
 

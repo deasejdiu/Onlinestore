@@ -85,7 +85,7 @@
 </head> 
 <body> 
     <header>
-        <a href="onlineshop.php"><img src="public/anaylla.png" alt="Anaylla Logo"></a>
+        <a href="onlineshop.php"><img src="public/dex.png" alt="Dex Logo"></a>
     </header>
     <div class="container"> 
         <div class="product"> 
