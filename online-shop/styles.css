@@ -730,3 +730,43 @@ margin-bottom: 75px;
 padding: 12px;
 }
 
+/* Qendërzim i përmbajtjes në header */
+header {
+  background-color: #d2d2d2;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;  /* Qendërzon përmbajtjen horizontalisht */
+  align-items: center;      /* Qendërzon përmbajtjen vertikalisht */
+  position: relative;       /* Siguron pozicionimin relativ për elementët e brendshëm */
+}
+
+/* Logo e kufizuar në madhësi dhe qendër */
+header img {
+  max-width: 200px; /* Mund ta ndryshoni vlerën sipas nevojës për ta bërë logon më të vogël ose më të madhe */
+  height: auto;     /* Ruajti proporcioni origjinal */
+}
+
+/* Sigurimi që elementet e tjerë të jenë gjithashtu të qendërzuar */
+header a {
+  color: #373737;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;  /* Qendërzon lidhjet në header */
+  align-items: center;
+}
+
+footer {
+  background-color: #d2d2d2;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

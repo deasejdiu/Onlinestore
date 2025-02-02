@@ -106,7 +106,7 @@
     </head>
     <body>
     <header>
-        <img src="public.png" alt="Beauty Cosmetics Logo">   
+        <img src="public/dex.png" alt="Beauty Cosmetics Logo">   
         <div class="header-container">
             <p><a href="index
             .php">Home</a></p>

@@ -8,43 +8,19 @@
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
 </head>
-<style>
-    @media only screen and (max-width: 600px) {
-        header {
-            flex-direction: column;
-            align-items: center;
-        }
-
-        .header-container {
-            margin-top: 20px;
-            flex-direction: column;
-        }
-
-        .products-container {
-            justify-content: center;
-            display: flex;
-        }
-
-        .product-item {
-            margin: 10px 0;
-        }
-
-        footer {
-            position: relative;
-        }
-    }
-</style>
 
 <body>
     <header>
-        <img src="public/dex.png" alt="Dex Logo">
-        <div class="header-container">
-            <p><a href="index.php">Home</a></p>
-            <p><a href="about.php">About Us</a></p>
-            <p><a href="contact.php">Contact Us</a></p>
-            <p><a href="products.php">Products</a></p>
-            <P><a href="loginregister.php">Login/Register</a></P>
+        <div class="logo-container">
+            <img src="public/dex.png" alt="Dex Logo" class="logo">
         </div>
+        <nav class="header-container">
+            <a href="index.php">Home</a>
+            <a href="about.php">About Us</a>
+            <a href="contact.php">Contact Us</a>
+            <a href="products.php">Products</a>
+            <a href="loginregister.php">Login/Register</a>
+        </nav>
     </header>
 
     <main>
@@ -77,7 +53,6 @@
     </main>
 
     <footer>
-
         <div class="social-links">
             <div class="social-link-container">
                 <img src="public/facebook.png" alt="Facebook">
