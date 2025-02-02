@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thank You - Anaylla</title>
+    <title>Thank You - dex</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
     <style>
@@ -59,7 +59,7 @@
 </head>
 <body>
     <header>
-        <img src="public/anaylla.png" alt="Anaylla Logo">
+        <img src="public/dex.png" alt="dex Logo">
         <div class="header-container">
             <p><a href="index.php">Home</a></p>
             <p><a href="about.php">About Us</a></p>

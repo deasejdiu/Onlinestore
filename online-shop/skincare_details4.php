@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
 </head>
 <header>
-    <img src="public/anaylla.png" alt="Anaylla Logo">
+    <img src="public/dex.png" alt="dex Logo">
     <div class="header-container">
         <p><a href="index.php">Home</a></p>
         <p><a href="about.php">About Us</a></p>
@@ -133,7 +133,7 @@
             </div>
         </div>
         
-        <p>Prizren, Kosove/ 049 999 999/ info@anaylla.com</p>
+        <p>Prizren, Kosove/ 049 999 999/ info@dex.com</p>
     </footer>
 </body>
 
