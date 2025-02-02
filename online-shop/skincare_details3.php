@@ -10,7 +10,7 @@
 <header>
     <img src="public/anaylla.png" alt="Anaylla Logo">
     <div class="header-container">
-        <p><a href="onlineshop.php">Home</a></p>
+        <p><a href="index.php">Home</a></p>
         <p><a href="about.php">About Us</a></p>
         <p><a href="contact.php">Contact Us</a></p>
         <p><a href="products.php">Products</a></p>

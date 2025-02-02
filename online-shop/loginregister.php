@@ -62,7 +62,7 @@ session_start();
   <header>
     <img src="public/dex.png" alt="dex Logo">
     <div class="header-container">
-      <p><a href="onlineshop.php">Home</a></p>
+      <p><a href="index.php">Home</a></p>
       <p><a href="about.php">About Us</a></p>
       <p><a href="contact.php">Contact Us</a></p>
       <p><a href="products.php">Products</a></p>

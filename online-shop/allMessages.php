@@ -91,7 +91,7 @@
 
 <body>
     <header>
-        <a href="onlineshop.php"><img src="public/dex.png" alt="Dex Logo"></a>
+        <a href="index.php"><img src="public/dex.png" alt="Dex Logo"></a>
     </header>
     <div class="container">
         <?php

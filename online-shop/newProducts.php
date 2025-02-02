@@ -81,7 +81,7 @@
 
 <body>
     <header>
-        <a href="onlineshop.php"><img src="public/anaylla.png" alt="Anaylla Logo"></a>
+        <a href="index.php"><img src="public/anaylla.png" alt="Anaylla Logo"></a>
     </header>
     <div class="container">
         <?php

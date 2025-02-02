@@ -61,7 +61,7 @@
     <header>
         <img src="public/anaylla.png" alt="Anaylla Logo">
         <div class="header-container">
-            <p><a href="onlineshop.php">Home</a></p>
+            <p><a href="index.php">Home</a></p>
             <p><a href="about.php">About Us</a></p>
             <p><a href="contact.php">Contact Us</a></p>
             <p><a href="products.php">Products</a></p>
@@ -72,6 +72,6 @@
     <h1>Thank You for Contacting Us!</h1>
     <p>Your message has been successfully submitted.</p>
     <p>We will get back to you as soon as possible.</p>
-    <p>Return to <a href="onlineshop.php">Home</a></p>
+    <p>Return to <a href="index.php">Home</a></p>
 </body>
 </html>
